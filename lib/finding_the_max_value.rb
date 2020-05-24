@@ -1,3 +1,4 @@
 def find_max_value(array)
-  max_val = -infinity
+  max_val = -10
+  
 end
